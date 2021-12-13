@@ -5,7 +5,7 @@
  📕 a Cadet of 42Seoul  
  📫 How to reach me: kyj93790@naver.com  
 
-![kyj93790's GitHub stats](https://github-readme-stats.vercel.app/api?kyj93790=anuraghazra&show_icons=true&theme=merko)
+![kyj93790's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyj93790&show_icons=true&theme=merko)
 
  [![yejikim's 42 stats](https://badge42.herokuapp.com/api/stats/yejikim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
