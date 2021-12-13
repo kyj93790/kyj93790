@@ -1,10 +1,10 @@
 ### Hi there 👋
 ### I'm Yejin Kim
 
- 🐹 want to be a programmer
- 🌱 currently learning Computer Science & Engineering in Sogang Univ.
- 📕 a Cadet of 42Seoul
- 📫 How to reach me: kyj93790@naver.com
+ 🐹 want to be a programmer  
+ 🌱 currently learning Computer Science & Engineering in Sogang Univ.  
+ 📕 a Cadet of 42Seoul  
+ 📫 How to reach me: kyj93790@naver.com  
  
 <!--
 **kyj93790/kyj93790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
