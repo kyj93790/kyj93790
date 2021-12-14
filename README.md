@@ -5,8 +5,6 @@
  📕 a Cadet of 42Seoul  
  📫 How to reach me: kyj93790@naver.com  
 
-![kyj93790's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyj93790&show_icons=true&theme=merko)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj93790)](https://solved.ac/kyj93790)
 
