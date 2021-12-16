@@ -1,7 +1,7 @@
 ### Hi, I'm Yejin Kim
 
  🐹 want to be a programmer  
- 🔦 interesed in developing myself  
+ 🔦 interested in developing myself  
  🌱 currently learning Computer Science & Engineering in Sogang Univ.  
  📕 a Cadet of 42Seoul  
  📫 How to reach me: kyj93790@naver.com  
