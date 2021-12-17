@@ -9,14 +9,14 @@
  📕 a Cadet of 42Seoul  
     
 * * *  
-
+<div align=center>
 ✨ **BOJ stats** ✨  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj93790)](https://solved.ac/kyj93790)
 
 ✨ **42 SEOUL stats** ✨  
  [![yejikim's 42 stats](https://badge42.herokuapp.com/api/stats/yejikim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-
+</div>
 
  
 <!--
