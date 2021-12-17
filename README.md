@@ -10,10 +10,20 @@
     
 * * *  
 
-|✨ **BOJ stats** ✨|✨ **42 SEOUL stats** ✨|
-|:-:|:-:|
-|![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj93790)|[![yejikim's 42 stats](https://badge42.herokuapp.com/api/stats/yejikim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)|
+<span>
+
+ ✨ **BOJ stats** ✨  
+ [![Solved.ac
+ 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj93790)](https://solved.ac/kyj93790)
+
+</span>
+
+<span>
+ 
+ ✨ **42 SEOUL stats** ✨  
+  [![yejikim's 42 stats](https://badge42.herokuapp.com/api/stats/yejikim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
+ </span>
 
  
 <!--
