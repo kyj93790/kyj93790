@@ -1,4 +1,4 @@
-### Hi, I'm Yejin Kim
+### Hi, I'm Yejin Kim ![HitCount](http://hits.dwyl.com/dev-yakuza/react-native-image-modal.svg)  
 
  🐹 want to be a programmer  
    
