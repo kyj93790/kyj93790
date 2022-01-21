@@ -1,12 +1,12 @@
 ### Hi, I'm Yejin Kim [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyj93790)](https://hits.seeyoufarm.com)
 
- 🐹 want to be a programmer  
+ 🐹 Want to be a improvalble programmer  
    
- 🔦 interested in developing myself  
+ 🔦 Interested in developing myself
    
- 🌱 currently learning Computer Science & Engineering in Sogang Univ.  
+ 🌱 Currently learning Computer Science & Engineering in Sogang Univ.  
    
- 📕 a Cadet of 42Seoul  
+ 📕 A Cadet of 42Seoul  
     
 * * *  
 
