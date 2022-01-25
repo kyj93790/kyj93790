@@ -1,6 +1,6 @@
 ### Hi, I'm Yejin Kim [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyj93790)](https://hits.seeyoufarm.com)
 
- 🐹 Want to be a improvalble programmer  
+ 🐹 Want to be a improvable programmer  
    
  🔦 Interested in developing myself
    
