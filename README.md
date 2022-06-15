@@ -6,7 +6,7 @@
    
  🌱 Currently learning Computer Science & Engineering in Sogang Univ.  
    
- 📕 A Cadet of 42Seoul  
+ 📕 A 5th generation Cadet of 42Seoul  
     
 * * *  
 
