@@ -20,6 +20,10 @@
   - [excellence prize](https://icpc-sinchon.io/suapc) in **SUAPC 2022 Winter** as a member of **BIROSO**
 - A member of [SGPY](https://www.instagram.com/sogangpy/) (2019.3 ~ 2021.2)
   - play korean traditional instruments
+- Lecture Mentor
+  - 컴퓨팅사고력 - Python (Spring 2020, 2021 / Fall 2020 / Summer 2021)
+  - 기초공학설계 - C (Spring 2021)
+  - 고급응용C프로그래밍 - C (Fall 2022)
 
 ## 📧 How to reach me
 By mail : kyj93790@sogang.ac.kr
