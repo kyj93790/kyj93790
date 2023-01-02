@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About me
 - Interested in developing myself
-- love to learn whatever
+- Love to learn whatever
 - Preparing for research in [Visual Representation Learning Lab](https://sites.google.com/site/junsukchoe/) at Sogang Univ.
 
 ## 🏫 Education
