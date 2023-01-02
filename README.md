@@ -7,7 +7,7 @@
 
 ## 🏫 Education
 - Undergraduate student in Computer Science & Engineering at Sogang Univ. (2019.3 ~ 2024.2)
-- A 5th generation Cadet of 42 Seoul (2020.10 ~ )
+- A 5th generation Cadet of 42 Seoul (2021.10 ~ )
 
 ## 📎 Other Experiences
 | ✨ **BOJ stats** ✨  |  ✨ **42 SEOUL stats** ✨ |
