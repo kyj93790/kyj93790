@@ -3,6 +3,7 @@
 ## 👩🏻‍💻 About me
 - Interested in developing myself
 - love to learn whatever
+- Preparing for research in Visual Representation Learning Lab at Sogang Univ.
 
 ## 🏫 Education
 - Undergraduate student in Computer Science & Engineering at Sogang Univ. (2019.3 ~ 2024.2)
@@ -16,7 +17,7 @@
 |  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj93790)](https://solved.ac/kyj93790) |  [![yejikim's 42 stats](https://badge42.vercel.app/api/v2/cl1lghcyu003009i75ac9q5x8/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)  |
 
 ## 📧 How to reach me
-kyj93790@sogang.ac.kr
+By mail : kyj93790@sogang.ac.kr
 
 <!--
 **kyj93790/kyj93790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
