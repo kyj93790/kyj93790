@@ -14,7 +14,7 @@
 | :-------------: | :-------------: |
 |  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj93790)](https://solved.ac/kyj93790) |  [![yejikim's 42 stats](https://badge42.vercel.app/api/v2/cl1lghcyu003009i75ac9q5x8/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)  |
 - [H.U.G](https://www.instagram.com/soganghug_official/) (2022.9 ~ )
-  - voluteer for exchange students in Sogang Univ.
+  - volunteer for exchange students in Sogang Univ.
 - [Sogang ICPC Team](https://icpc.team/) (2021.12 ~ )
   - study PS
   - [excellence prize](https://icpc-sinchon.io/suapc) in **SUAPC 2022 Winter** as a member of **BIROSO**
