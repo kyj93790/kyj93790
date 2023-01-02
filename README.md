@@ -17,7 +17,7 @@
   - Voluteer for exchange students in Sogang Univ.
 - A member of [Sogang ICPC Team](https://icpc.team/) (2021.12 ~ )
   - study PS
-  - [excellence prize](https://icpc-sinchon.io/suapc) in SUAPC 2022 winter as a member of BIROSO
+  - [excellence prize](https://icpc-sinchon.io/suapc) in **SUAPC 2022 Winter** as a member of **BIROSO**
 - A member of [SGPY](https://www.instagram.com/sogangpy/) (2019.3 ~ 2021.2)
   - Play korean traditional instruments
 
