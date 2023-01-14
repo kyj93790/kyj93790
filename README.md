@@ -26,4 +26,4 @@
   - C Language - C (Fall 2022)
 
 ## 📧 How to reach me
-By mail : kyj93790@sogang.ac.kr
+By mail : yejin.c.kim@gmail.com
