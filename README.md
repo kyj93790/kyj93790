@@ -4,7 +4,7 @@
 - Interested in developing myself
 - Love to learn whatever
 - Always do my efforts to be trustworthy person
-- Preparing for research in [Visual Representation Learning Lab](https://sites.google.com/site/junsukchoe/) at Sogang Univ.
+- Preparing for research in [Visual Representation Learning Lab](https://sites.google.com/site/junsukchoe/) at Sogang Univ. (2023.01 ~ )
 
 ## 🏫 Education
 - Undergraduate student in Computer Science & Engineering at Sogang Univ. (2019.3 ~ 2024.2)
