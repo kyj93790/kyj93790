@@ -1,4 +1,4 @@
-### Hi, I'm Yejin Kim [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyj93790)](https://hits.seeyoufarm.com)
+### Hi, I'm Yejin Kim [📆](https://calendar.google.com/calendar/u/0/embed?src=yejin.c.kim@gmail.com&ctz=Asia/Seoul&pli=1) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyj93790)](https://hits.seeyoufarm.com)
 
 ## 👩🏻‍💻 About me
 - Interested in developing myself
@@ -27,4 +27,5 @@
   - C Language - C (Fall 2022)
 
 ## 📧 How to reach me
-By mail : yejin.c.kim@gmail.com
+By mail : yejin.c.kim@gmail.com <br>
+You can check my schedule briefly by clicking the calendar icon (Top of the README)
