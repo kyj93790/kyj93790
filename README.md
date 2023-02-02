@@ -14,6 +14,7 @@
 | ✨ **BOJ stats** ✨  |  ✨ **42 SEOUL stats** ✨ |
 | :-------------: | :-------------: |
 |  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj93790)](https://solved.ac/kyj93790) |  [![yejikim's 42 stats](https://badge42.vercel.app/api/v2/cl1lghcyu003009i75ac9q5x8/stats?cursusId=21&coalitionId=85)](https://github.com/kyj93790/42-cursus)  |
+- 2023 Reviewer of [Hanbit Media](https://www.hanbit.co.kr/media/) (Feb 2023 - )
 - [H.U.G](https://www.instagram.com/soganghug_official/) (Sep 2022 - )
   - volunteer for exchange students in Sogang Univ.
 - [Sogang ICPC Team](https://icpc.team/) (Dec 2021 - )
