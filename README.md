@@ -1,6 +1,6 @@
-## Hi, I'm Yejin Kim [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyj93790)](https://hits.seeyoufarm.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=efccff&height=100&text=Hi%20I'm%20Yejin%20Kim&animation=&fontColor=000000&fontSize=30" />
 
-## 👩🏻‍💻 About me
+## 👩🏻‍💻 About me [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyj93790)](https://hits.seeyoufarm.com)
 - Interested in developing myself
 - Love to learn whatever
 - Always do my efforts to be a trustworthy person
