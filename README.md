@@ -26,7 +26,7 @@
 - Lecture Mentor
   - Computational Thinking - Python (Spring 2020, 2021 / Fall 2020 / Summer 2021)
   - Introduction to Engineering Design - C (Spring 2021)
-  - C Language - C (Fall 2022)
+  - C Language - C (Fall 2022 / Spring 2023)
 
 ## 📧 How to reach me
 <div style="text-align: left;">
