@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=40dfbf&height=100&text=Hi,%20I'm%20Yejin%20Kim%20🍀&animation=&fontColor=000000&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=40dfbf&height=100&text=Hi,%20I'm%20Yejin%20Kim%20🍀&animation=&fontColor=008080&fontSize=30" />
+
+#50bfaf
 
 ## 👩🏻‍💻 About me [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyj93790)](https://hits.seeyoufarm.com)
 - Interested in developing myself
