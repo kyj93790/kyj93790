@@ -23,7 +23,7 @@
   - [excellence prize](https://icpc-sinchon.io/suapc) in **SUAPC 2022 Winter** as a member of **BIROSO**
 - [SGPY](https://www.instagram.com/sogangpy/) (Mar 2019 - Feb 2021)
   - play korean traditional instruments
-- Lecture Mentor
+- Teaching Assistant
   - Computational Thinking - Python (Spring 2020, 2021 / Fall 2020 / Summer 2021)
   - Introduction to Engineering Design - C (Spring 2021)
   - C Language - C (Fall 2022 / Spring 2023)
