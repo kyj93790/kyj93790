@@ -5,7 +5,6 @@
 - Love to learn whatever
 - Always do my efforts to be a trustworthy person
 - Preparing for research in [Visual Representation Learning Lab](https://sites.google.com/site/junsukchoe/) at Sogang Univ. (Jan 2023 - )
-  - Specifically focusing on Semi-Supervised Learning
 
 ## 🏫 Education
 - Undergraduate student in Dept. of Computer Science & Engineering at Sogang Univ. (Mar 2019 - )
