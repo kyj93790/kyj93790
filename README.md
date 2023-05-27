@@ -14,6 +14,7 @@
 | ✨ **BOJ stats** ✨  |  ✨ **42 SEOUL stats** ✨ |✨ **Language stats** ✨|
 | :-------------: | :-------------: | :-:|
 |  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj93790)](https://solved.ac/kyj93790) |  [![yejikim's 42 stats](https://badge42.vercel.app/api/v2/cl1lghcyu003009i75ac9q5x8/stats?cursusId=21&coalitionId=85)](https://github.com/kyj93790/42-cursus)  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyj93790&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"> |
+- Internship at Center for Intelligent & Interactive Robotics in [KIST](https://www.kist.re.kr/ko/index.do) (Jun 2023 - )
 - 2023 Reviewer of [Hanbit Media](https://www.hanbit.co.kr/media/) (Feb 2023 - )
   - review new books in the field of IT
 - [H.U.G](https://www.instagram.com/soganghug_official/) (Sep 2022 - )
