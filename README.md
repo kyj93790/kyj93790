@@ -7,7 +7,7 @@
 - Preparing for research in [Visual Representation Learning Lab](https://sites.google.com/site/junsukchoe/) at Sogang Univ. (Jan 2023 - )
 
 ## 🏫 Education
-- Undergraduate student in Dept. of Computer Science & Engineering at Sogang Univ. (Mar 2019 - )
+- Undergraduate student in the Dept. of Computer Science & Engineering at Sogang Univ. (Mar 2019 - )
 - A 5th generation Cadet of 42 Seoul (Oct 2021 - )
 
 ## 📎 Other Experience
