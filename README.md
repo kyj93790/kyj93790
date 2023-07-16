@@ -14,12 +14,12 @@
 | ✨ **BOJ stats** ✨  | ✨ **Language stats** ✨|
 | :-: |:-:|
 |  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj93790)](https://solved.ac/kyj93790) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyj93790&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"> |
-- Internship at Center for Intelligent & Interactive Robotics in [KIST](https://www.kist.re.kr/ko/index.do) (Jun 2023 - )
+- Internship at Center for Intelligent & Interactive Robotics in [KIST](https://www.kist.re.kr/ko/index.do) (Jun 2023 - Aug 2023)
 - 2023 Reviewer of [Hanbit Media](https://www.hanbit.co.kr/media/) (Feb 2023 - )
   - review new books in the field of IT
 - [H.U.G](https://www.instagram.com/soganghug_official/) (Sep 2022 - )
   - volunteer for exchange students in Sogang Univ.
-- [Sogang ICPC Team](https://icpc.team/) (Dec 2021 - )
+- [Sogang ICPC Team](https://icpc.team/) (Dec 2021 - Aug 2023)
   - study PS
   - [excellence prize](https://icpc-sinchon.io/suapc) in **SUAPC 2022 Winter** as a member of **BIROSO**
 - [SGPY](https://www.instagram.com/sogangpy/) (Mar 2019 - Feb 2021)
