@@ -26,7 +26,7 @@
 - [SGPY](https://www.instagram.com/sogangpy/) (Mar 2019 - Feb 2021)
   - play korean traditional instruments
 - Teaching Assistant
-  - Computational Thinking (Spring 2020, 2021 / Fall 2020 / Summer 2021)
+  - Computational Thinking (Spring 2020, 2021 / Fall 2020, 2023 / Summer 2021)
   - Introduction to Engineering Design (Spring 2021)
   - C Language (Fall 2022 / Spring 2023)
 
