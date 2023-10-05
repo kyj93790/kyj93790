@@ -1,34 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=40dfbf&height=100&text=Hi,%20I'm%20Yejin%20Kim%20🍀&animation=&fontColor=008080&fontSize=30" />
+# Hi, I'm Yejin Kim
+I'm an undergraduate intern in Visual Representation Learning Lab at Sogang University. My research interests are in *Computer Vision*, *Deep Learning*, and *Human Computer Interaction*. Currently, I'm doing research on learning from long-tailed data with my advisor, [Prof. Junsuk Choe](https://sites.google.com/site/junsukchoe/).
 
-## 👩🏻‍💻 About me [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyj93790)](https://hits.seeyoufarm.com)
-- A conscientious student
-- Interested in developing myself
-- Love to learn whatever
-- Always do my efforts to be a trustworthy person
-- Preparing for research in [Visual Representation Learning Lab](https://sites.google.com/site/junsukchoe/) at Sogang Univ. (Jan 2023 - )
-
-## 🏫 Education
-- Undergraduate student in the Dept. of Computer Science & Engineering at Sogang Univ. (Mar 2019 - )
-- A 5th generation Cadet of 42 Seoul (Oct 2021 - Jul 2023)
-
-## 📎 Other Experience
-| ✨ **BOJ stats** ✨  | ✨ **Language stats** ✨|
-| :-: |:-:|
-|  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj93790)](https://solved.ac/kyj93790) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyj93790&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"> |
-- Internship at Center for Intelligent & Interactive Robotics in [KIST](https://www.kist.re.kr/ko/index.do) (Jul 2023 - Aug 2023)
-- 2023 Reviewer of [Hanbit Media](https://www.hanbit.co.kr/media/) (Feb 2023 - )
-  - review new books in the field of IT
-- [H.U.G](https://www.instagram.com/soganghug_official/) (Sep 2022 - )
-  - volunteer for exchange students in Sogang Univ.
-- [Sogang ICPC Team](https://icpc.team/) (Dec 2021 - Aug 2023)
-  - study PS
-  - [excellence prize](https://icpc-sinchon.io/suapc) in **SUAPC 2022 Winter** as a member of **BIROSO**
-- [SGPY](https://www.instagram.com/sogangpy/) (Mar 2019 - Feb 2021)
-  - play korean traditional instruments
-- Teaching Assistant
-  - Computational Thinking (Spring 2020, 2021 / Fall 2020, 2023 / Summer 2021)
-  - Introduction to Engineering Design (Spring 2021)
-  - C Language (Fall 2022 / Spring 2023)
+You can see more information about me [here](https://sites.google.com/view/yejin-c-kim/)
 
 ## 📧 How to reach me
 <div style="text-align: left;">
