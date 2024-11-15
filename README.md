@@ -4,9 +4,9 @@ My research interests include *Computer Vision*, *Deep Learning*, *Explainable A
 
 Currently, my research focuses on:
 - **Long-tailed Semi-supervised Learning**
-  -  Developing methods to mitigate model bias that arises during the learning process from imbalanced data
+  -  Mitigating model bias that arises during the learning process from imbalanced data
  
 - **Machine Unlearning**
-  - Exploring methodologies that enable models to effectively "unlearn" specific data to address issues related to user privacy, copyright, and data licensing
+  - Enabling models to effectively "unlearn" specific data to address issues related to user privacy, copyright, and data licensing
 
 You can see more information about me **[👉🏻 here 👈🏻](https://sites.google.com/view/yejin-c-kim/)**.
