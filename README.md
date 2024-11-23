@@ -3,7 +3,7 @@ I'm a M.S. student in Visual Representation Learning Lab at Sogang University, w
 My research interests include *Computer Vision*, *Deep Learning*, *Explainable AI* and *Human Computer Interaction*.<br>
 
 Currently, my research focuses on:
-- **Long-tailed Semi-supervised Learning**
+- **Long-tail Learning**
   -  Mitigating model bias that arises during the learning process from imbalanced data
  
 - **Machine Unlearning**
